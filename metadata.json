@@ -1,0 +1,6 @@
+{
+  "name": "TeguhOne - Satu Aplikasi, Banyak Manfaat",
+  "description": "Aplikasi serba guna mandiri dan terdesentralisasi karya Teguh Rianto: Video Aggregator (YouTube & TikTok), Tilawah & Al-Qur'an, Tuning Pro Bengkel Motor, TChat P2P Terenkripsi, TMarket Jual Beli ala OLX, Belanja Afiliasi & Donasi QRIS, Kang Teguh AI Montir Santri, dan Radio Online Streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
